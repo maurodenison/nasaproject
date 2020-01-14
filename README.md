@@ -2,8 +2,6 @@
 
 Astronomy Picture of the Day.
 
-## Getting Started
-
 ## Objective:
 Evaluate coding skills for Flutter technology.
 
